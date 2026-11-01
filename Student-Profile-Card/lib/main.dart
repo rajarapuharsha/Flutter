@@ -41,7 +41,7 @@ class StudentProfile extends StatelessWidget {
               ),
               const SizedBox(height: 15),
               const Text(
-                "Sudulaguntla Usha",
+                "Rajarapu Harsha Vardhan",
                 style: TextStyle(
                   fontSize: 28,
                   fontWeight: FontWeight.bold,
@@ -49,7 +49,7 @@ class StudentProfile extends StatelessWidget {
               ),
               const SizedBox(height: 8),
               const Text(
-                "Roll No: 24PA1A05L9",
+                "Roll No: 24PA1A05J1",
                 style: TextStyle(fontSize: 20),
               ),
               const SizedBox(height: 5),
@@ -60,13 +60,13 @@ class StudentProfile extends StatelessWidget {
               const SizedBox(height: 30),
               contactCard(
                 Icons.phone,
-                "+91 8125056816",
+                " +91 63019 25843 ",
                 Colors.green,
               ),
               const SizedBox(height: 15),
               contactCard(
                 Icons.email,
-                "ushasudulaguntla11@gmail.com",
+                "rajarapuharsha@gmail.com",
                 Colors.red,
               ),
             ],
