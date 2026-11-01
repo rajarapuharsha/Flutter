@@ -66,7 +66,7 @@ class StudentProfile extends StatelessWidget {
               const SizedBox(height: 15),
               contactCard(
                 Icons.email,
-                "rajarapuharsha@gmail.com",
+                "rajarapuharsha61@gmail.com",
                 Colors.red,
               ),
             ],
